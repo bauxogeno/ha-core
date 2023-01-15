@@ -22,6 +22,7 @@ DEV_TYPE_TO_HA = {
     "ESD16": "walldimmer",
     "ESWD16": "walldimmer",
     "ESL100": "bulb-dimmable",
+    "ESL100MC": "bulb-dimmable",
     "ESL100CW": "bulb-tunable-white",
 }
 
